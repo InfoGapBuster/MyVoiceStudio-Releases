@@ -1,1 +1,1 @@
-a934a20a05007e1b77cbbb83a7ed394c38e280ff3b96140f717384de7589c6bf  MyVoice-Studio-0.2.0-preview-mac-arm64.zip
+fa0f9b92654054249050032ad7f65593d4ac9f4c0b9f3e38b71d303049892965  MyVoice-Studio-0.3.0-preview.1-mac-arm64.zip
